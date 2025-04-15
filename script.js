@@ -16,3 +16,5 @@ const limparNome = () => {
 }
 btnGerar.addEventListener("click", gerarNome);
 btnLimpar.addEventListener("click", limparNome);
+
+console.log("Script Loaded Successfully!");
